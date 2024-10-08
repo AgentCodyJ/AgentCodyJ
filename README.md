@@ -1,12 +1,17 @@
 <!--  **AgentCodyJ/AgentCodyJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
 
 <h1 align="center">Hi 👋, I'm Cody S. Jolin</h1>
-<div align="center">Software Engineer 🧑‍💻 and Game Developer 🎮 with 10+ years industry experience</div>
+<div align="center">Software Engineer 🧑‍💻 and Game Developer 🎮 with 10+ years industry experience
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/cody-jolin-87882457/" target="_blank" rel="noopener"><img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/LinkedIn%20Icon.png" width="3%" alt="LinkedIn Link"></a>
+    &nbsp;&nbsp;
+  <a href="https://codyjolin.wordpress.com/" target="_blank" rel="noopener"><img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Desktop%20Work%20Environment.png" width="7%" alt="Professional Portfolio Link"></a>
+</div>
 
 <div>
   <img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Profile%20Pic.jpg" width="29%" alt="Profile Pic"> &nbsp;
   <img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Crossover%20Unity%20Game%20Developer%20Assessment%20(November%202023).png" width="52%" alt="Crossover Unity Game Developer Assessment (November 2023)"> &nbsp;
-  <img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Profile%20Pic%202.jpg" width="15%" alt="Profile Pic #2">
+  <img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Profile%20Pic%202.jpg" width="14%" alt="Profile Pic #2">
 </div>
 <br/>
 
@@ -32,16 +37,24 @@ I aspire to solve challenging software obstacles, in order to make significant c
 
 <b>Let’s create a new adventure, together…</b>
 
-<a href="https://www.linkedin.com/in/cody-jolin-87882457/" target="_blank" rel="noopener">LinkedIn Profile</a>
-<a href="https://codyjolin.wordpress.com/" target="_blank" rel="noopener">Professional Portfolio</a>
-
-
-<br/>
-<div>
-  <img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Affect.jpg" alt="Affect Unity 3D Project">
-  <img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Affect%20-%20Emotional%20Trigger%20Interaction.gif" width="50%" alt="Affect Unity 3D Project - Sad Trigger Interaction">
+<div align="center">
+  <a href="https://www.linkedin.com/in/cody-jolin-87882457/" target="_blank" rel="noopener"><img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/LinkedIn%20Icon.png" width="3%" alt="LinkedIn Link"></a>
+    <a href="https://www.linkedin.com/in/cody-jolin-87882457/" target="_blank" rel="noopener">LinkedIn Profile</a>
+  &nbsp; | &nbsp;
+  <a href="https://codyjolin.wordpress.com/" target="_blank" rel="noopener"><img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Desktop%20Work%20Environment.png" width="7%" alt="Professional Portfolio"></a>
+    <a href="https://codyjolin.wordpress.com/" target="_blank" rel="noopener">Professional Portfolio</a>
 </div>
+<br/>
+
+<img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Affect.jpg" alt="Affect Unity 3D Project">
+<div>
+  <img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Affect%20-%20Approaching%20Temple.gif" width="33%" alt="Affect Unity 3D Project - Approaching Temple">
+  <img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Affect%20-%20Emotional%20Trigger%20Interaction.gif" width="33%" alt="Affect Unity 3D Project - Emotional Trigger Interaction">
+  <img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Affect%20-%20Crate%20Stacking.gif" width="33%" alt="Affect Unity 3D Project - Crate Stacking">
+</div>
+<br/>
+
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/AgentCodyJ/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/AgentCodyJ/count.svg" alt="Visitor Count" />
 </div>
